@@ -1,0 +1,27 @@
+{
+   "name": "Middle North", #List name
+   "logoURI": "https://imgur.com/p71lK6C", #List logo uri
+   "timestamp": 1610339529000, #Update time in millisecond
+   "tokens": [{
+           "chainId": 1, #ChainId, which is currently 1
+           "address": "TJ1YSauJMCoVZfuGE6r1nDMjVQiTwBYb2e", #Token address
+           "name": "MiddleNorth", #Token name
+           "symbol": "MN", #Token symbol
+           "decimals": 8, #Token decimals
+           "logoURI": "https://imgur.com/p71lK6C" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TJ1YSauJMCoVZfuGE6r1nDMjVQiTwBYb2e",
+           "name": "MiddleNorth",
+           "symbol": "MN",
+           "decimals": 18,
+           "logoURI": "https://imgur.com/p71lK6C"
+       }
+   ],
+   "version": { #Version info
+       "major": 1, #Major version
+       "minor": 0, #Minor version
+       "patch": 0  #Patch version
+   }
+}
